@@ -19,3 +19,21 @@ Image Processing and Computer Vison at Saarland University (SS23)
 | 11     | Lecture 11:Linear Filters-I  | [Slides]()       |             |             |    [Video Image Filtering](https://www.youtube.com/watch?v=OOu5KP3Gvx0&list=PL2zRqk16wsdorCSZ5GWZQr1EMWXs2TDeu&index=11)         |
 | 12     |               |        |             |             |             |
 | 13     |               |        |             |             |             |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Additional Resources: 
+1. Image Signal Processing by IIT Madras: https://archive.nptel.ac.in/courses/108/106/108106168/
+2. Lecture 15: Bilateral Filter: https://www.youtube.com/watch?v=7FP7ndMEfsc; 
